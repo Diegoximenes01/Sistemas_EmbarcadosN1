@@ -42,8 +42,6 @@ O sistema é capaz de:
 
 ## 🔧 Montagem do Circuito
 
-> Monte o circuito conforme o esquema do projeto no Tinkercad.
-
 ### 📌 Ligações principais:
 
 - **Sensor de fumaça → A5**
