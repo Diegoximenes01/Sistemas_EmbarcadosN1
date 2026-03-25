@@ -1,4 +1,4 @@
-# 🛡️ Arcanjos - Sistema de Incêndio (Arduino & Tinkercad)
+# 🛡️ Arcanjos - Sistema de Incêndio
 
 Este repositório contém o projeto de sistemas embarcados desenvolvido para a empresa **Arcanjos**. O foco é uma solução inteligente e acessível para a detecção, prevenção e combate a incêndios, projetada e simulada integralmente na plataforma **Tinkercad**.
 
