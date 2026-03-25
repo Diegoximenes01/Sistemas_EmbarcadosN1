@@ -65,7 +65,7 @@ O sistema é capaz de:
 ### 1️⃣ Montar o circuito
 Monte todos os componentes conforme o esquema no **Tinkercad** ou em uma protoboard.
 
-![Circuito do Projeto](./images/circuito.png)
+![Circuito do Projeto](./Circuito.png)
 
 > Monte o circuito conforme o esquema acima.
 ---
